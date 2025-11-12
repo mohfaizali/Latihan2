@@ -1,0 +1,2 @@
+ini langkah 2
+DI DALAM DIREKTORI TADI BUAT SRC/, DOC/, DATA/.
